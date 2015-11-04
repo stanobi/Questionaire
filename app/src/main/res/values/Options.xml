@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="option_1">Snigdha Nandipati</string>
+    <string name="option_2">Bikram Singh</string>
+    <string name="option_3">Thailand</string>  
+    <string name="option_4">Kirti Chakra</string>
+    <string name="option_5">Kamla Persad Bissessar</string>
+    <string name="option_6">Bhubaneshwar</string>
+    <string name="option_7">42</string>
+    <string name="option_8">Intelligence Bureau (IB)</string>
+    <string name="option_9">Myanmar</string>
+    <string name="option_10">Leon Panetta</string>
+    <string name="option_11">Himachal Pradesh</string>
+    <string name="option_12">Karnataka</string>
+    <string name="option_13">Tamil Nadu</string>
+    <string name="option_14">R.V. Kanoria</string>
+    <string name="option_15">Photo journalist</string>
+    
+    <string-array name="Q1_Option">
+        <item>Stuti Mishra</item>
+		<item>Arvind Mahamkali</item>
+		<item>Snigdha Nandipati</item>
+		<item>Vanya Shivshankar</item>
+		<item>None of these</item>              
+    </string-array>
+    <string-array name="Q2_Option">
+        <item>J.J.Singh</item>
+		<item>Bikram Singh</item>
+		<item>V.K.Singh</item>
+		<item>Dalbir Singh Suhag</item>
+		<item>None of these</item>               
+    </string-array>
+    <string-array name="Q3_Option">
+        <item>Cambodia</item>
+		<item>Australia</item>
+		<item>Bangladesh</item>
+		<item>Thailand</item>
+		<item>Russia</item>              
+    </string-array>   
+    <string-array name="Q4_Option">
+        <item>Param Vir Chakra</item>
+		<item>Maha Vir Chakra</item>
+		<item>Ashok Chakra</item>
+		<item>Kirti Chakra</item>
+		<item>Shourya Chakra</item>          
+    </string-array> 
+    <string-array name="Q5_Option">
+        <item>Lakshmi Nivas Mittal</item>
+		<item>Datuk S.Subramaniam</item>
+		<item>Yingluck Shinawatra</item>
+		<item>Anand Satyanand</item>
+		<item>Kamla Persad Bissessar</item>                
+    </string-array>  
+    <string-array name="Q6_Option">
+        <item>Chennai</item>
+		<item>Pune</item>
+		<item>New Delhi</item>
+		<item>Bhubaneshwar</item>
+		<item>Bangalore</item>              
+    </string-array>  
+    <string-array name="Q7_Option">
+        <item>42</item>
+		<item>32</item>
+		<item>38</item>
+		<item>48</item>
+		<item>53</item>                
+    </string-array>  
+    <string-array name="Q8_Option">
+        <item>Central Bureau of Investigation (CBI)</item>
+		<item>Intelligence Bureau (IB)</item>
+		<item>National Investigation Agency (NIA)</item>
+		<item>Research and Analysis Wing (RAW)</item>
+		<item>National Security Guard (NSG)</item>               
+    </string-array>  
+    <string-array name="Q9_Option">
+        <item>Thailand</item>
+		<item>Cambodia</item>
+		<item>Myanmar</item>
+		<item>Vietnam</item>
+		<item>Laos</item>                
+    </string-array>  
+    <string-array name="Q10_Option">
+        <item>Leon Panetta</item>
+		<item>John Bryson</item>
+		<item>Tom Vilsack</item>
+		<item>Eric Holder</item>
+		<item>None of these</item>                
+    </string-array>  
+    <string-array name="Q11_Option">
+        <item>Assam</item>
+		<item>Arunachal Pradesh</item>
+		<item>West Bengal</item>
+		<item>Himachal Pradesh</item>
+		<item>None of these</item>                
+    </string-array>  
+    <string-array name="Q12_Option">
+        <item>Madhya Pradesh</item>
+		<item>Maharashtra</item>
+		<item>Odisha</item>
+		<item>Goa</item>
+		<item>Karnataka</item>                
+    </string-array>  
+    <string-array name="Q13_Option">
+        <item>Andhra Pradesh</item>
+		<item>Tamil Nadu</item>
+		<item>Kerala</item>
+		<item>Bihar</item>
+		<item>Jharkhand</item>              
+    </string-array>  
+    <string-array name="Q14_Option">
+        <item>Naina Lal Kidwai</item>
+		<item>Sidharth Birla</item>
+		<item>R.V. Kanoria</item>
+		<item>Shikha Sharma</item>
+		<item>None of these</item>                
+    </string-array>  
+    <string-array name="Q15_Option">
+        <item>Jnanpith award winner</item>
+		<item>Photo journalist</item>
+		<item>Mountaineer</item>
+		<item>Cricketer</item>
+		<item>None of these</item>               
+    </string-array>                    
+</resources>

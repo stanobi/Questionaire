@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="Question_1">Which Indian-American won the Scripps National Spelling Bee competition inMaryland, USA, in June 2012? (This is the 5th consecutive win for Indian-Americans)</string>
+        <string name="Question_2">Who became the 25th Chief of the Indian Army on May 31, 2012?</string>
+        <string name="Question_3">Which country\'s Prime Minister was India\'s chief guest of honor at the 63rd Republic Day Parade on January 26, 2012?</string>
+        <string name="Question_4">Which is India\'s highest peacetime gallantry award?</string>
+        <string name="Question_5">The 10th Pravasi Bharatiya Divas (PBD) conclave was held in Jaipur from January 7 to 9, 2012. Who was the chief guest for this conference?</string>
+        <string name="Question_6">Which city hosted the 99th Indian Science Congress in January 2012?</string>
+        <string name="Question_7">According to a report on hunger and malnutrition (HUNGaMA), what percent of India\'s children are malnourished and underw-eight?</string>
+        <string name="Question_8">The proposed National Counter Terrorism Centre (NCTC) will work as an integral part of which of the following agencies?</string>
+        <string name="Question_9">India and Thailand have decided to develop a seaport at Dawei, earlier known as Tavoy. In which Asian country is this town located?</string>
+		<string name="Question_10">Who is the defense secretary of the United States of America?</string>
+		<string name="Question_11">Nathpa Jhakri, India\'s largest hydroelectric project generated 7,610 million units of electricity in 2011 to 2012 which is a record. In which state is this project located?</string>        
+		<string name="Question_12">Which state has instituted the Mallikarjun Mansur award?</string>
+		<string name="Question_13">Which state made Chess classes compulsory in schools to impr-ove cognitive skills of students from this academic year? (Gujarat is the first state to start chess programmes in schools)</string>
+		<string name="Question_14">Who became the new President of the Federation of Indian Cha-mbers of Commerce and Industry (FICCI) in January 2012?</string>
+		<string name="Question_15">Homai Vyarawala passed away recently. She is India\'s first woman?</string>
+</resources>

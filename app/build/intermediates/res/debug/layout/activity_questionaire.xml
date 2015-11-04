@@ -1,0 +1,21 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ScrollView1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Action_bar" >
+    
+        <!-- this will contain the question and the timer -->
+        <!-- and this will contain the options to be chosen from -->
+        <FrameLayout
+            android:id="@+id/Fragment_container_Questions"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </FrameLayout>
+
+</ScrollView><!-- From: file:/C:/Users/Seamfixer/AndroidStudioProjects/Questionaire/app/src/main/res/layout/activity_questionaire.xml -->

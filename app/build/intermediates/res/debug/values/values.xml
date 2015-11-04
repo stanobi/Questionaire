@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Seamfixer/AndroidStudioProjects/Questionaire/app/src/main/res/values/Options.xml -->
+    <eat-comment/>
+    <string-array name="Q10_Option">
+        <item>Leon Panetta</item>
+		<item>John Bryson</item>
+		<item>Tom Vilsack</item>
+		<item>Eric Holder</item>
+		<item>None of these</item>                
+    </string-array>
+    <string-array name="Q11_Option">
+        <item>Assam</item>
+		<item>Arunachal Pradesh</item>
+		<item>West Bengal</item>
+		<item>Himachal Pradesh</item>
+		<item>None of these</item>                
+    </string-array>
+    <string-array name="Q12_Option">
+        <item>Madhya Pradesh</item>
+		<item>Maharashtra</item>
+		<item>Odisha</item>
+		<item>Goa</item>
+		<item>Karnataka</item>                
+    </string-array>
+    <string-array name="Q13_Option">
+        <item>Andhra Pradesh</item>
+		<item>Tamil Nadu</item>
+		<item>Kerala</item>
+		<item>Bihar</item>
+		<item>Jharkhand</item>              
+    </string-array>
+    <string-array name="Q14_Option">
+        <item>Naina Lal Kidwai</item>
+		<item>Sidharth Birla</item>
+		<item>R.V. Kanoria</item>
+		<item>Shikha Sharma</item>
+		<item>None of these</item>                
+    </string-array>
+    <string-array name="Q15_Option">
+        <item>Jnanpith award winner</item>
+		<item>Photo journalist</item>
+		<item>Mountaineer</item>
+		<item>Cricketer</item>
+		<item>None of these</item>               
+    </string-array>
+    <string-array name="Q1_Option">
+        <item>Stuti Mishra</item>
+		<item>Arvind Mahamkali</item>
+		<item>Snigdha Nandipati</item>
+		<item>Vanya Shivshankar</item>
+		<item>None of these</item>              
+    </string-array>
+    <string-array name="Q2_Option">
+        <item>J.J.Singh</item>
+		<item>Bikram Singh</item>
+		<item>V.K.Singh</item>
+		<item>Dalbir Singh Suhag</item>
+		<item>None of these</item>               
+    </string-array>
+    <string-array name="Q3_Option">
+        <item>Cambodia</item>
+		<item>Australia</item>
+		<item>Bangladesh</item>
+		<item>Thailand</item>
+		<item>Russia</item>              
+    </string-array>
+    <string-array name="Q4_Option">
+        <item>Param Vir Chakra</item>
+		<item>Maha Vir Chakra</item>
+		<item>Ashok Chakra</item>
+		<item>Kirti Chakra</item>
+		<item>Shourya Chakra</item>          
+    </string-array>
+    <string-array name="Q5_Option">
+        <item>Lakshmi Nivas Mittal</item>
+		<item>Datuk S.Subramaniam</item>
+		<item>Yingluck Shinawatra</item>
+		<item>Anand Satyanand</item>
+		<item>Kamla Persad Bissessar</item>                
+    </string-array>
+    <string-array name="Q6_Option">
+        <item>Chennai</item>
+		<item>Pune</item>
+		<item>New Delhi</item>
+		<item>Bhubaneshwar</item>
+		<item>Bangalore</item>              
+    </string-array>
+    <string-array name="Q7_Option">
+        <item>42</item>
+		<item>32</item>
+		<item>38</item>
+		<item>48</item>
+		<item>53</item>                
+    </string-array>
+    <string-array name="Q8_Option">
+        <item>Central Bureau of Investigation (CBI)</item>
+		<item>Intelligence Bureau (IB)</item>
+		<item>National Investigation Agency (NIA)</item>
+		<item>Research and Analysis Wing (RAW)</item>
+		<item>National Security Guard (NSG)</item>               
+    </string-array>
+    <string-array name="Q9_Option">
+        <item>Thailand</item>
+		<item>Cambodia</item>
+		<item>Myanmar</item>
+		<item>Vietnam</item>
+		<item>Laos</item>                
+    </string-array>
+    <!-- From: file:/C:/Users/Seamfixer/AndroidStudioProjects/Questionaire/app/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <integer-array name="androidcolors">
+        <item>@color/blue</item>
+        <item>@color/purple</item>
+        <item>@color/green</item>
+        <item>@color/orange</item>
+        <item>@color/red</item>
+        <item>@color/darkblue</item>
+        <item>@color/darkpurple</item>
+        <item>@color/darkgreen</item>
+        <item>@color/darkorange</item>
+        <item>@color/darkred</item>
+    </integer-array>
+    <item name="black" type="color">#00000000</item>
+    <item name="blue" type="color">#FF33B5E5</item>
+    <item name="darkblue" type="color">#FF0099CC</item>
+    <item name="darkgreen" type="color">#FF669900</item>
+    <item name="darkorange" type="color">#FFFF8800</item>
+    <item name="darkpurple" type="color">#FF9933CC</item>
+    <item name="darkred" type="color">#FFCC0000</item>
+    <item name="green" type="color">#FF99CC00</item>
+    <item name="orange" type="color">#FFFFBB33</item>
+    <item name="purple" type="color">#FFAA66CC</item>
+    <item name="red" type="color">#FFFF4444</item>
+    <item name="white" type="color">#FFFFFFFF</item>
+    <!-- From: file:/C:/Users/Seamfixer/AndroidStudioProjects/Questionaire/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/Seamfixer/AndroidStudioProjects/Questionaire/app/src/main/res/values/Questions.xml -->
+    <eat-comment/>
+    <string name="Question_1">Which Indian-American won the Scripps National Spelling Bee competition inMaryland, USA, in June 2012? (This is the 5th consecutive win for Indian-Americans)</string>
+    <string name="Question_10">Who is the defense secretary of the United States of America?</string>
+    <string name="Question_11">Nathpa Jhakri, India\'s largest hydroelectric project generated 7,610 million units of electricity in 2011 to 2012 which is a record. In which state is this project located?</string>
+    <string name="Question_12">Which state has instituted the Mallikarjun Mansur award?</string>
+    <string name="Question_13">Which state made Chess classes compulsory in schools to impr-ove cognitive skills of students from this academic year? (Gujarat is the first state to start chess programmes in schools)</string>
+    <string name="Question_14">Who became the new President of the Federation of Indian Cha-mbers of Commerce and Industry (FICCI) in January 2012?</string>
+    <string name="Question_15">Homai Vyarawala passed away recently. She is India\'s first woman?</string>
+    <string name="Question_2">Who became the 25th Chief of the Indian Army on May 31, 2012?</string>
+    <string name="Question_3">Which country\'s Prime Minister was India\'s chief guest of honor at the 63rd Republic Day Parade on January 26, 2012?</string>
+    <string name="Question_4">Which is India\'s highest peacetime gallantry award?</string>
+    <string name="Question_5">The 10th Pravasi Bharatiya Divas (PBD) conclave was held in Jaipur from January 7 to 9, 2012. Who was the chief guest for this conference?</string>
+    <string name="Question_6">Which city hosted the 99th Indian Science Congress in January 2012?</string>
+    <string name="Question_7">According to a report on hunger and malnutrition (HUNGaMA), what percent of India\'s children are malnourished and underw-eight?</string>
+    <string name="Question_8">The proposed National Counter Terrorism Centre (NCTC) will work as an integral part of which of the following agencies?</string>
+    <string name="Question_9">India and Thailand have decided to develop a seaport at Dawei, earlier known as Tavoy. In which Asian country is this town located?</string>
+    <!-- From: file:/C:/Users/Seamfixer/AndroidStudioProjects/Questionaire/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">The Questionaire</string>
+    <string name="avatar">The avatar chosen by the user</string>
+    <string name="image">An image</string>
+    <string name="login">sign in</string>
+    <!-- From: file:/C:/Users/Seamfixer/AndroidStudioProjects/Questionaire/app/src/main/res/values/Options.xml -->
+    <eat-comment/>
+    <string name="option_1">Snigdha Nandipati</string>
+    <string name="option_10">Leon Panetta</string>
+    <string name="option_11">Himachal Pradesh</string>
+    <string name="option_12">Karnataka</string>
+    <string name="option_13">Tamil Nadu</string>
+    <string name="option_14">R.V. Kanoria</string>
+    <string name="option_15">Photo journalist</string>
+    <string name="option_2">Bikram Singh</string>
+    <string name="option_3">Thailand</string>
+    <string name="option_4">Kirti Chakra</string>
+    <string name="option_5">Kamla Persad Bissessar</string>
+    <string name="option_6">Bhubaneshwar</string>
+    <string name="option_7">42</string>
+    <string name="option_8">Intelligence Bureau (IB)</string>
+    <string name="option_9">Myanmar</string>
+    <!-- From: file:/C:/Users/Seamfixer/AndroidStudioProjects/Questionaire/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="progressBarText">Loading</string>
+    <string name="question_number">Question 1</string>
+    <string name="short_message">OK</string>
+    <string name="splashScreen_logo">questionaire_logo</string>
+    <string name="test">this is just testing</string>
+    <string name="timer_text">00:00</string>
+    <string name="try_agains">TRY AGAIN</string>
+    <string name="username">Enter a username</string>
+    <!-- From: file:/C:/Users/Seamfixer/AndroidStudioProjects/Questionaire/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Holo.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="@android:style/Theme.Holo.Light">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+        <item name="android:actionBarTabTextStyle">@style/MyActionBar</item>
+        <item name="android:actionMenuTextColor">@color/red</item>
+    </style>
+    <style name="MyActionBar" parent="@android:style/Widget.Holo.ActionBar">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:titleTextStyle">@style/MyActionBar_text</item>
+        <item name="android:background">@color/red</item>
+    </style>
+    <style name="MyActionBar_text" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>
