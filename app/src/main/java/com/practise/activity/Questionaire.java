@@ -30,6 +30,8 @@ public class Questionaire extends FragmentActivity{
 //			.commit();
 //		}
 
+
+
         if(findViewById(R.id.Fragment_container_Questions) == null){
                 getSupportFragmentManager().beginTransaction().add(R.id.Fragment_container_Questions,new Login()).commit();
         }
