@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ProgressBar
+        android:id="@+id/splashscreen_progressBar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="52dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:max="100"
+        android:visibility="visible" />
+
+    <TextView
+        android:id="@+id/splashscreen_TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/splashscreen_progressBar"
+        android:layout_alignParentLeft="true"
+        android:gravity="center"
+        android:text="@string/progressBarText"
+        android:textSize="12sp" />
+
+    <ImageView
+        android:id="@+id/splashScreen_Logo"
+        android:layout_width="wrap_content"
+        android:layout_height="250dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="40dp"
+        android:adjustViewBounds="false"
+        android:contentDescription="@string/splashScreen_logo"
+        android:src="@drawable/bartender" />
+
+</RelativeLayout>

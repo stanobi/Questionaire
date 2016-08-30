@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.practise.actionbar"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/bartender"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+
+        <!-- Splash Screen -->
+        <activity
+            android:name="com.practise.activity.splashScreen.Page"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Holo.Light.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Activity Questionaire -->
+        <activity
+            android:name="com.practise.activity.Questionaire"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+
+        <!-- Activity Instant Result -->
+        <activity
+            android:name="com.practise.activity.result.InstantResult"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Holo.Light.Dialog" >
+        </activity>
+    </application>
+
+</manifest>

@@ -50,7 +50,7 @@ public class Page extends Activity {
 			int progressCounter = 0;
 			while(progressCounter < 100)
 			{
-				progressCounter += 5;
+				progressCounter += 15;
 				
 				publishProgress(progressCounter);
 				SystemClock.sleep(1000);

@@ -10,6 +10,7 @@ import com.practise.model.TimeKeeper;
 import android.content.Intent;
 import android.content.res.Resources;
 import android.os.Bundle;
+import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -17,7 +18,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
 
-public class FragmentQuestionaire extends android.app.Fragment{
+public class FragmentQuestionaire extends Fragment {
 
 	private TextView Question_TxtVw , Timer_TxtVw , QCounter;
 	private Button Op1,Op2,Op3,Op4,Op5 ;

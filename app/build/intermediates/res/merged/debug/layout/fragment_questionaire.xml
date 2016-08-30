@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+<RelativeLayout
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/Timer_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="14dp"
+        android:layout_marginTop="15dp"
+        android:text="@string/timer_text"
+        android:textSize="20sp" />
+
+    <LinearLayout
+        android:id="@+id/option_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Questions_textView"
+        android:layout_marginTop="50dp"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/option1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" />
+
+        <Button
+            android:id="@+id/option2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" />
+
+        <Button
+            android:id="@+id/option3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" />
+        
+        <Button
+            android:id="@+id/option4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" />  
+            
+        <Button
+            android:id="@+id/option5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" />          
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/Questions_textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Question_counter"
+        android:gravity="center"
+        android:text="@string/Question_1"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/Question_counter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Timer_textView"
+        android:layout_marginTop="14dp"
+        android:gravity="center" />
+
+</RelativeLayout>
+</ScrollView>

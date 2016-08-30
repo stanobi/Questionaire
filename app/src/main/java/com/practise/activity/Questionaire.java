@@ -6,6 +6,8 @@ import com.practise.fragment.login.Login;
 
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
+import android.support.v4.app.FragmentManager;
+import android.util.Log;
 
 
 public class Questionaire extends FragmentActivity{
@@ -27,22 +29,29 @@ public class Questionaire extends FragmentActivity{
 //			.add(R.id.Fragment_container_Questions,fragm)
 //			.commit();
 //		}
-		
-        Login authentication = new Login();
+
         if(findViewById(R.id.Fragment_container_Questions) == null){
-                getSupportFragmentManager().beginTransaction().add(R.id.Fragment_container_Questions,authentication).commit();
+                getSupportFragmentManager().beginTransaction().add(R.id.Fragment_container_Questions,new Login()).commit();
         }
         else{
+            Log.d("Debugging","Debugging");
             if(savedInstanceState != null){
+                Log.d("Debugging1","Debugging");
             	getSupportFragmentManager().beginTransaction()
-                    .replace(R.id.Fragment_container_Questions,authentication)
+                    .replace(R.id.Fragment_container_Questions,new Login())
                     .commit();
             }
             else{
+                Log.d("Debugging2","Debugging");
             	getSupportFragmentManager().beginTransaction()
-                    .replace(R.id.Fragment_container_Questions,authentication)
-                    .commit();
+                    .add(R.id.Fragment_container_Questions,new Login()).commitAllowingStateLoss();
             }
         }
 	}
+
+    public void switchFragments(int contentFrameId, android.support.v4.app.Fragment replacingFragment) {
+        FragmentManager fragmentManager = this.getSupportFragmentManager();
+        fragmentManager.beginTransaction()
+                .replace(contentFrameId, replacingFragment).commitAllowingStateLoss();
+    }
 }

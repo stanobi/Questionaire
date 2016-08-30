@@ -1,0 +1,2497 @@
+[
+    {
+        "outputFile": "C:\\AndroidStudioProjects\\Questionaire\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 8,
+                    "endColumn": 19,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 2915,
+                        "endLine": 87,
+                        "endColumn": 19,
+                        "endOffset": 3133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endLine": 15,
+                    "endColumn": 19,
+                    "endOffset": 488
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 3141,
+                        "endLine": 94,
+                        "endColumn": 19,
+                        "endOffset": 3363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 493,
+                    "endLine": 22,
+                    "endColumn": 19,
+                    "endOffset": 690
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 3371,
+                        "endLine": 101,
+                        "endColumn": 19,
+                        "endOffset": 3574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 695,
+                    "endLine": 29,
+                    "endColumn": 19,
+                    "endOffset": 891
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 3582,
+                        "endLine": 108,
+                        "endColumn": 19,
+                        "endOffset": 3784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 896,
+                    "endLine": 36,
+                    "endColumn": 19,
+                    "endOffset": 1118
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 3792,
+                        "endLine": 115,
+                        "endColumn": 19,
+                        "endOffset": 4020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1123,
+                    "endLine": 43,
+                    "endColumn": 19,
+                    "endOffset": 1346
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 4028,
+                        "endLine": 122,
+                        "endColumn": 19,
+                        "endOffset": 4257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1351,
+                    "endLine": 50,
+                    "endColumn": 19,
+                    "endOffset": 1577
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 847,
+                        "endLine": 24,
+                        "endColumn": 19,
+                        "endOffset": 1079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 1582,
+                    "endLine": 57,
+                    "endColumn": 19,
+                    "endOffset": 1795
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1085,
+                        "endLine": 31,
+                        "endColumn": 19,
+                        "endOffset": 1304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 1800,
+                    "endLine": 64,
+                    "endColumn": 19,
+                    "endOffset": 1992
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1310,
+                        "endLine": 38,
+                        "endColumn": 19,
+                        "endOffset": 1508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 1997,
+                    "endLine": 71,
+                    "endColumn": 19,
+                    "endOffset": 2213
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1517,
+                        "endLine": 45,
+                        "endColumn": 19,
+                        "endOffset": 1739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 2218,
+                    "endLine": 78,
+                    "endColumn": 19,
+                    "endOffset": 2466
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 1746,
+                        "endLine": 52,
+                        "endColumn": 19,
+                        "endOffset": 2000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 2471,
+                    "endLine": 85,
+                    "endColumn": 19,
+                    "endOffset": 2663
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2008,
+                        "endLine": 59,
+                        "endColumn": 19,
+                        "endOffset": 2206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 2668,
+                    "endLine": 92,
+                    "endColumn": 19,
+                    "endOffset": 2831
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 2214,
+                        "endLine": 66,
+                        "endColumn": 19,
+                        "endOffset": 2383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 2836,
+                    "endLine": 99,
+                    "endColumn": 19,
+                    "endOffset": 3145
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 2391,
+                        "endLine": 73,
+                        "endColumn": 19,
+                        "endOffset": 2706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 3150,
+                    "endLine": 106,
+                    "endColumn": 19,
+                    "endOffset": 3337
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 2714,
+                        "endLine": 80,
+                        "endColumn": 19,
+                        "endOffset": 2907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 3342,
+                    "endLine": 118,
+                    "endColumn": 20,
+                    "endOffset": 3757
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 729,
+                        "endLine": 27,
+                        "endColumn": 20,
+                        "endOffset": 1155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 3762,
+                    "endColumn": 52,
+                    "endOffset": 3810
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 618,
+                        "endColumn": 52,
+                        "endOffset": 666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 3815,
+                    "endColumn": 51,
+                    "endOffset": 3862
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 60,
+                        "endColumn": 51,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 3867,
+                    "endColumn": 55,
+                    "endOffset": 3918
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endColumn": 55,
+                        "endOffset": 380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 3923,
+                    "endColumn": 56,
+                    "endOffset": 3975
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 445,
+                        "endColumn": 56,
+                        "endOffset": 497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 3980,
+                    "endColumn": 57,
+                    "endOffset": 4033
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 503,
+                        "endColumn": 57,
+                        "endOffset": 556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 4038,
+                    "endColumn": 57,
+                    "endOffset": 4091
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endColumn": 57,
+                        "endOffset": 439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 4096,
+                    "endColumn": 54,
+                    "endOffset": 4146
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 562,
+                        "endColumn": 54,
+                        "endOffset": 612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 4151,
+                    "endColumn": 52,
+                    "endOffset": 4199
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 168,
+                        "endColumn": 52,
+                        "endOffset": 216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 4204,
+                    "endColumn": 53,
+                    "endOffset": 4253
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 222,
+                        "endColumn": 53,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 4258,
+                    "endColumn": 53,
+                    "endOffset": 4307
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 53,
+                        "endOffset": 162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 4312,
+                    "endColumn": 50,
+                    "endOffset": 4358
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 277,
+                        "endColumn": 50,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 4363,
+                    "endColumn": 52,
+                    "endOffset": 4411
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 672,
+                        "endColumn": 52,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 4416,
+                    "endColumn": 57,
+                    "endOffset": 4469
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 4474,
+                    "endColumn": 55,
+                    "endOffset": 4525
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 4530,
+                    "endColumn": 196,
+                    "endOffset": 4722
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Questions.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 8,
+                        "startOffset": 61,
+                        "endColumn": 200,
+                        "endOffset": 253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 4727,
+                    "endColumn": 101,
+                    "endOffset": 4824
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Questions.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 2,
+                        "startOffset": 1431,
+                        "endColumn": 99,
+                        "endOffset": 1528
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 4829,
+                    "endColumn": 213,
+                    "endOffset": 5038
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Questions.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 2,
+                        "startOffset": 1532,
+                        "endColumn": 211,
+                        "endOffset": 1741
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 5043,
+                    "endColumn": 96,
+                    "endOffset": 5135
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Questions.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 2,
+                        "startOffset": 1753,
+                        "endColumn": 94,
+                        "endOffset": 1845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 5140,
+                    "endColumn": 224,
+                    "endOffset": 5360
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Questions.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 2,
+                        "startOffset": 1849,
+                        "endColumn": 222,
+                        "endOffset": 2069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 5365,
+                    "endColumn": 156,
+                    "endOffset": 5517
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Questions.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 2,
+                        "startOffset": 2073,
+                        "endColumn": 154,
+                        "endOffset": 2225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 5522,
+                    "endColumn": 106,
+                    "endOffset": 5624
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Questions.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 2,
+                        "startOffset": 2229,
+                        "endColumn": 104,
+                        "endOffset": 2331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 5629,
+                    "endColumn": 100,
+                    "endOffset": 5725
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Questions.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 8,
+                        "startOffset": 263,
+                        "endColumn": 104,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 5730,
+                    "endColumn": 157,
+                    "endOffset": 5883
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Questions.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 8,
+                        "startOffset": 369,
+                        "endColumn": 161,
+                        "endOffset": 522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 5888,
+                    "endColumn": 91,
+                    "endOffset": 5975
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Questions.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 8,
+                        "startOffset": 532,
+                        "endColumn": 95,
+                        "endOffset": 619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 5980,
+                    "endColumn": 177,
+                    "endOffset": 6153
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Questions.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 8,
+                        "startOffset": 629,
+                        "endColumn": 181,
+                        "endOffset": 802
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 6158,
+                    "endColumn": 106,
+                    "endOffset": 6260
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Questions.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 8,
+                        "startOffset": 812,
+                        "endColumn": 110,
+                        "endOffset": 914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 6265,
+                    "endColumn": 167,
+                    "endOffset": 6428
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Questions.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 8,
+                        "startOffset": 924,
+                        "endColumn": 171,
+                        "endOffset": 1087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 6433,
+                    "endColumn": 158,
+                    "endOffset": 6587
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Questions.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 8,
+                        "startOffset": 1097,
+                        "endColumn": 162,
+                        "endOffset": 1251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 6592,
+                    "endColumn": 170,
+                    "endOffset": 6758
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Questions.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 8,
+                        "startOffset": 1261,
+                        "endColumn": 174,
+                        "endOffset": 1427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 6763,
+                    "endColumn": 52,
+                    "endOffset": 6811
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 52,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 6816,
+                    "endColumn": 53,
+                    "endOffset": 6865
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 53,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 6870,
+                    "endColumn": 64,
+                    "endOffset": 6930
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 628,
+                        "endColumn": 64,
+                        "endOffset": 688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 6935,
+                    "endColumn": 42,
+                    "endOffset": 6973
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 412,
+                        "endColumn": 42,
+                        "endOffset": 450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 6978,
+                    "endColumn": 41,
+                    "endOffset": 7015
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endColumn": 41,
+                        "endOffset": 730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 7020,
+                    "endColumn": 54,
+                    "endOffset": 7070
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 54,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 7075,
+                    "endColumn": 50,
+                    "endOffset": 7121
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 526,
+                        "endColumn": 50,
+                        "endOffset": 572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 7126,
+                    "endColumn": 54,
+                    "endOffset": 7176
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 578,
+                        "endColumn": 54,
+                        "endOffset": 628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 7181,
+                    "endColumn": 47,
+                    "endOffset": 7224
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 634,
+                        "endColumn": 47,
+                        "endOffset": 677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 7229,
+                    "endColumn": 48,
+                    "endOffset": 7273
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 683,
+                        "endColumn": 48,
+                        "endOffset": 727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 7278,
+                    "endColumn": 50,
+                    "endOffset": 7324
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 733,
+                        "endColumn": 50,
+                        "endOffset": 779
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 7329,
+                    "endColumn": 54,
+                    "endOffset": 7379
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 785,
+                        "endColumn": 54,
+                        "endOffset": 835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 7384,
+                    "endColumn": 49,
+                    "endOffset": 7429
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 49,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 7434,
+                    "endColumn": 45,
+                    "endOffset": 7475
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 45,
+                        "endOffset": 205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 7480,
+                    "endColumn": 49,
+                    "endOffset": 7525
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 213,
+                        "endColumn": 49,
+                        "endOffset": 258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 7530,
+                    "endColumn": 59,
+                    "endOffset": 7585
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 264,
+                        "endColumn": 59,
+                        "endOffset": 319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 7590,
+                    "endColumn": 49,
+                    "endOffset": 7635
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 325,
+                        "endColumn": 49,
+                        "endOffset": 370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 7640,
+                    "endColumn": 39,
+                    "endOffset": 7675
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 376,
+                        "endColumn": 39,
+                        "endOffset": 411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 7680,
+                    "endColumn": 61,
+                    "endOffset": 7737
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 417,
+                        "endColumn": 61,
+                        "endOffset": 474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 7742,
+                    "endColumn": 44,
+                    "endOffset": 7782
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 480,
+                        "endColumn": 44,
+                        "endOffset": 520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 7787,
+                    "endColumn": 51,
+                    "endOffset": 7834
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 455,
+                        "endColumn": 51,
+                        "endOffset": 502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 7839,
+                    "endColumn": 54,
+                    "endOffset": 7889
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 54,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 7894,
+                    "endColumn": 44,
+                    "endOffset": 7934
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 44,
+                        "endOffset": 258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 7939,
+                    "endColumn": 63,
+                    "endOffset": 7998
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 507,
+                        "endColumn": 63,
+                        "endOffset": 566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 8003,
+                    "endColumn": 44,
+                    "endOffset": 8043
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 735,
+                        "endColumn": 44,
+                        "endOffset": 775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 8048,
+                    "endColumn": 53,
+                    "endOffset": 8097
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 357,
+                        "endColumn": 53,
+                        "endOffset": 406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 8102,
+                    "endColumn": 44,
+                    "endOffset": 8142
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 312,
+                        "endColumn": 44,
+                        "endOffset": 352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 8147,
+                    "endColumn": 48,
+                    "endOffset": 8191
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 263,
+                        "endColumn": 48,
+                        "endOffset": 307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 8196,
+                    "endColumn": 53,
+                    "endOffset": 8245
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 571,
+                        "endColumn": 53,
+                        "endOffset": 620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 8250,
+                    "endLine": 183,
+                    "endColumn": 12,
+                    "endOffset": 8548
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 8553,
+                    "endLine": 189,
+                    "endColumn": 12,
+                    "endOffset": 8941
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 641,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1034
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 8946,
+                    "endLine": 194,
+                    "endColumn": 12,
+                    "endOffset": 9261
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1088,
+                        "endLine": 28,
+                        "endColumn": 12,
+                        "endOffset": 1407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 9266,
+                    "endLine": 198,
+                    "endColumn": 12,
+                    "endOffset": 9533
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1468,
+                        "endLine": 34,
+                        "endColumn": 12,
+                        "endOffset": 1738
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 8,
+                    "endColumn": 19,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endLine": 15,
+                    "endColumn": 19,
+                    "endOffset": 488
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 493,
+                    "endLine": 22,
+                    "endColumn": 19,
+                    "endOffset": 690
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 695,
+                    "endLine": 29,
+                    "endColumn": 19,
+                    "endOffset": 891
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 896,
+                    "endLine": 36,
+                    "endColumn": 19,
+                    "endOffset": 1118
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1123,
+                    "endLine": 43,
+                    "endColumn": 19,
+                    "endOffset": 1346
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1351,
+                    "endLine": 50,
+                    "endColumn": 19,
+                    "endOffset": 1577
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 1582,
+                    "endLine": 57,
+                    "endColumn": 19,
+                    "endOffset": 1795
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 1800,
+                    "endLine": 64,
+                    "endColumn": 19,
+                    "endOffset": 1992
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 1997,
+                    "endLine": 71,
+                    "endColumn": 19,
+                    "endOffset": 2213
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 2218,
+                    "endLine": 78,
+                    "endColumn": 19,
+                    "endOffset": 2466
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 2471,
+                    "endLine": 85,
+                    "endColumn": 19,
+                    "endOffset": 2663
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 2668,
+                    "endLine": 92,
+                    "endColumn": 19,
+                    "endOffset": 2831
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 2836,
+                    "endLine": 99,
+                    "endColumn": 19,
+                    "endOffset": 3145
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 3150,
+                    "endLine": 106,
+                    "endColumn": 19,
+                    "endOffset": 3337
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 3342,
+                    "endLine": 118,
+                    "endColumn": 20,
+                    "endOffset": 3757
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 3762,
+                    "endColumn": 52,
+                    "endOffset": 3810
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 3815,
+                    "endColumn": 51,
+                    "endOffset": 3862
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 3867,
+                    "endColumn": 55,
+                    "endOffset": 3918
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 3923,
+                    "endColumn": 56,
+                    "endOffset": 3975
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 3980,
+                    "endColumn": 57,
+                    "endOffset": 4033
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 4038,
+                    "endColumn": 57,
+                    "endOffset": 4091
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 4096,
+                    "endColumn": 54,
+                    "endOffset": 4146
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 4151,
+                    "endColumn": 52,
+                    "endOffset": 4199
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 4204,
+                    "endColumn": 53,
+                    "endOffset": 4253
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 4258,
+                    "endColumn": 53,
+                    "endOffset": 4307
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 4312,
+                    "endColumn": 50,
+                    "endOffset": 4358
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 4363,
+                    "endColumn": 52,
+                    "endOffset": 4411
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 4416,
+                    "endColumn": 57,
+                    "endOffset": 4469
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 4474,
+                    "endColumn": 55,
+                    "endOffset": 4525
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 4530,
+                    "endColumn": 196,
+                    "endOffset": 4722
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Questions.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 4727,
+                    "endColumn": 101,
+                    "endOffset": 4824
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Questions.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 4829,
+                    "endColumn": 213,
+                    "endOffset": 5038
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Questions.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 5043,
+                    "endColumn": 96,
+                    "endOffset": 5135
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Questions.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 5140,
+                    "endColumn": 224,
+                    "endOffset": 5360
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Questions.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 5365,
+                    "endColumn": 156,
+                    "endOffset": 5517
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Questions.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 5522,
+                    "endColumn": 106,
+                    "endOffset": 5624
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Questions.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 5629,
+                    "endColumn": 100,
+                    "endOffset": 5725
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Questions.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 5730,
+                    "endColumn": 157,
+                    "endOffset": 5883
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Questions.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 5888,
+                    "endColumn": 91,
+                    "endOffset": 5975
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Questions.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 5980,
+                    "endColumn": 177,
+                    "endOffset": 6153
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Questions.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 6158,
+                    "endColumn": 106,
+                    "endOffset": 6260
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Questions.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 6265,
+                    "endColumn": 167,
+                    "endOffset": 6428
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Questions.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 6433,
+                    "endColumn": 158,
+                    "endOffset": 6587
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Questions.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 6592,
+                    "endColumn": 170,
+                    "endOffset": 6758
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Questions.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 6763,
+                    "endColumn": 52,
+                    "endOffset": 6811
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 6816,
+                    "endColumn": 53,
+                    "endOffset": 6865
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 6870,
+                    "endColumn": 64,
+                    "endOffset": 6930
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 6935,
+                    "endColumn": 42,
+                    "endOffset": 6973
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 6978,
+                    "endColumn": 41,
+                    "endOffset": 7015
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 7020,
+                    "endColumn": 54,
+                    "endOffset": 7070
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 7075,
+                    "endColumn": 50,
+                    "endOffset": 7121
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 7126,
+                    "endColumn": 54,
+                    "endOffset": 7176
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 7181,
+                    "endColumn": 47,
+                    "endOffset": 7224
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 7229,
+                    "endColumn": 48,
+                    "endOffset": 7273
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 7278,
+                    "endColumn": 50,
+                    "endOffset": 7324
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 7329,
+                    "endColumn": 54,
+                    "endOffset": 7379
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 7384,
+                    "endColumn": 49,
+                    "endOffset": 7429
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 7434,
+                    "endColumn": 45,
+                    "endOffset": 7475
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 7480,
+                    "endColumn": 49,
+                    "endOffset": 7525
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 7530,
+                    "endColumn": 59,
+                    "endOffset": 7585
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 7590,
+                    "endColumn": 49,
+                    "endOffset": 7635
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 7640,
+                    "endColumn": 39,
+                    "endOffset": 7675
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 7680,
+                    "endColumn": 61,
+                    "endOffset": 7737
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 7742,
+                    "endColumn": 44,
+                    "endOffset": 7782
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\Options.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 7787,
+                    "endColumn": 51,
+                    "endOffset": 7834
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 7839,
+                    "endColumn": 54,
+                    "endOffset": 7889
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 7894,
+                    "endColumn": 44,
+                    "endOffset": 7934
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 7939,
+                    "endColumn": 63,
+                    "endOffset": 7998
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 8003,
+                    "endColumn": 44,
+                    "endOffset": 8043
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 735,
+                        "endColumn": 44,
+                        "endOffset": 775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 8048,
+                    "endColumn": 53,
+                    "endOffset": 8097
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 8102,
+                    "endColumn": 44,
+                    "endOffset": 8142
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 8147,
+                    "endColumn": 48,
+                    "endOffset": 8191
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 8196,
+                    "endColumn": 53,
+                    "endOffset": 8245
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 8250,
+                    "endLine": 183,
+                    "endColumn": 12,
+                    "endOffset": 8548
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 8553,
+                    "endLine": 189,
+                    "endColumn": 12,
+                    "endOffset": 8941
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 8946,
+                    "endLine": 194,
+                    "endColumn": 12,
+                    "endOffset": 9261
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 9266,
+                    "endLine": 198,
+                    "endColumn": 12,
+                    "endOffset": 9533
+                },
+                "from": {
+                    "file": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]
