@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\Questionaire\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Questionaire\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wrong_result_image.png",
+        "source": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\drawable-hdpi\\wrong_result_image.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Questionaire\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\no_answer_result_image.png",
+        "source": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\drawable-hdpi\\no_answer_result_image.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Questionaire\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\correct_result_image.png",
+        "source": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\drawable-hdpi\\correct_result_image.png"
+    }
+]

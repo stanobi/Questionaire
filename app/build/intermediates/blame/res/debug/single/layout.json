@@ -8,10 +8,6 @@
         "source": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\layout\\fragment_login.xml"
     },
     {
-        "merged": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splashscreen_page.xml",
-        "source": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\layout\\activity_splashscreen_page.xml"
-    },
-    {
         "merged": "C:\\AndroidStudioProjects\\Questionaire\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splashscreen_page.xml",
         "source": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\layout\\activity_splashscreen_page.xml"
     },
@@ -20,31 +16,11 @@
         "source": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\layout\\fragment_questionaire.xml"
     },
     {
-        "merged": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_result_instant.xml",
-        "source": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\layout\\activity_result_instant.xml"
-    },
-    {
         "merged": "C:\\AndroidStudioProjects\\Questionaire\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_questionaire.xml",
         "source": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\layout\\activity_questionaire.xml"
     },
     {
-        "merged": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_result_detailed.xml",
-        "source": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\layout\\fragment_result_detailed.xml"
-    },
-    {
         "merged": "C:\\AndroidStudioProjects\\Questionaire\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_result_instant.xml",
         "source": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\layout\\activity_result_instant.xml"
-    },
-    {
-        "merged": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_login.xml",
-        "source": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\layout\\fragment_login.xml"
-    },
-    {
-        "merged": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_questionaire.xml",
-        "source": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\layout\\activity_questionaire.xml"
-    },
-    {
-        "merged": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_questionaire.xml",
-        "source": "C:\\Users\\Seamfixer\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\layout\\fragment_questionaire.xml"
     }
 ]

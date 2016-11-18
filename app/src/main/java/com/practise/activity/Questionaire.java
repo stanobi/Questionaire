@@ -1,13 +1,14 @@
 package com.practise.activity;
 
-import com.practise.actionbar.R;
-import com.practise.fragment.FragmentQuestionaire;
-import com.practise.fragment.login.Login;
-
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
 import android.util.Log;
+
+import com.practise.actionbar.R;
+import com.practise.fragment.login.Login;
+
+import com.practise.fragment.FragmentQuestionaire;
 
 
 public class Questionaire extends FragmentActivity{

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\Questionaire\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\wrong_result_image.png",
+        "source": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\drawable-mdpi\\wrong_result_image.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Questionaire\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\no_answer_result_image.png",
+        "source": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\drawable-mdpi\\no_answer_result_image.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Questionaire\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Questionaire\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bartender.png",
+        "source": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\drawable-mdpi\\bartender.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Questionaire\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\correct_result_image.png",
+        "source": "C:\\AndroidStudioProjects\\Questionaire\\app\\src\\main\\res\\drawable-mdpi\\correct_result_image.png"
+    }
+]
